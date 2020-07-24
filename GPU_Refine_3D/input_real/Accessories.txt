@@ -1,0 +1,24 @@
+Title	:	Smartphone Photo Studio for #3DBenchy and tiny stuff
+Author	:	CreativeTools
+License	:	Creative Commons - Attribution - Share Alike
+Date	:	2015-10-21T20:48:57
+Category	:	3d-printing
+Subcategory	:	3d-printing-tests
+Tags	:	360-video3DBenchyArthropodologycamera_rigcrankflashlightiphoneiphone_6iphone_6smacromacro_photographymobilephotophoto_studiophoto-studiophotographyphotostudioRigSamsungsmartphonesmartphoneholdersmartphone_holdersmartphone_mountsmartphone_standsoftboxstandstudio_lightstripodturn-tableturntable
+Thing ID	:	1085472 (Thingiverse)
+File ID	:	1706475 (Download)
+#Vertices	:	169659
+#Faces	:	339306
+#Components	:	6
+Euler	:	6
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	63858.1

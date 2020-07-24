@@ -1,0 +1,24 @@
+Title	:	Gandhi Lithophane
+Author	:	WilliamAAdams
+License	:	Creative Commons - Attribution
+Date	:	2011-11-27T20:57:43
+Category	:	art
+Subcategory	:	2d-art
+Tags	:	Banate_CADlithophane
+Thing ID	:	14044 (Thingiverse)
+File ID	:	45939 (Download)
+#Vertices	:	66049
+#Faces	:	131072
+#Components	:	1
+Euler	:	1
+Closed	:	False
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	False
+Solid	:	False
+Total area	:	88774.4
